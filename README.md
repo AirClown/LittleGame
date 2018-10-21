@@ -1,6 +1,6 @@
 # LittleGame
 
-#Usine c/c++
+#Using c/c++
 
 1.Gluttonous Snake
 
